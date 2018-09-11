@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.avdev.utchipster",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "utcHipster",
+    "packageName": "com.avdev.utchipster",
+    "packageFolder": "com/avdev/utchipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmZkZjNhYjFlNTljY2E3ZjhjN2I1ZWYyMjdlODM3MWZhNGQ4YWU3NWQwZmJkYmYxZTUzNWY4YjMzOWViYmFmYWMzMzkxZWNhMzc5YTE5ZTlhZTBkZGY4YzY3Nzg0NGRlNjBmYzVlODE1MTdhZDYxNzc2NDFjNGU1ZmI3ODUzMzg=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ]
+  }
+}
